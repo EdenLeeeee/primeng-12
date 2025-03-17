@@ -1,7 +1,10 @@
 {
+    "engines": {
+      "node": "16.x"
+    },
     "build": {
-        "env": {
-            "NODE_VERSION": "16"
-        }
+      "env": {
+        "NODE_VERSION": "16"
+      }
     }
-}
+  }
